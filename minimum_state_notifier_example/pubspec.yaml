@@ -1,0 +1,22 @@
+name: minimum_state_notifier_example
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^4.1.0-dev # 追加
+  state_notifier: ^0.4.0 # 追加
+  flutter_state_notifier: ^0.3.0 # 追加
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
