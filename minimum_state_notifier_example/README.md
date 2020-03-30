@@ -1,4 +1,4 @@
-# minimum_change_notifier_example
+# minimum_state_notifier_example
 
 State Notifierを使った最小構成のプロジェクト。
 
